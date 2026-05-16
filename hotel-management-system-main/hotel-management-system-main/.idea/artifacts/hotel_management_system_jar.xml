@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hotel-management-system:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hotel_management_system_jar</output-path>
+    <root id="archive" name="hotel-management-system.jar">
+      <element id="module-output" name="hotel-management-system" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/sendgrid-java.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/itextpdf-5.5.13.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/mysql-connector-j-9.1.0/mysql-connector-j-9.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/javax.mail.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
